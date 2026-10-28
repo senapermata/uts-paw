@@ -1,10 +1,92 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Monstera",
+    "kategori": "Daun",
+    "namaLatin": "Monstera deliciosa",
+    "frekuensiSiram": "1x seminggu",
+    "kebutuhanCahaya": "sedang"
+  },
+
+  {
+    "id": "2",
+    "judul": "Lidah Mertua",
+    "kategori": "Daun",
+    "namaLatin": "Sansevieria trifasciata",
+    "frekuensiSiram": "1x 2 minggu",
+    "kebutuhanCahaya": "teduh"
+  },
+
+  {
+    "id": "3",
+    "judul": "Bunga Matahari",
+    "kategori": "Bunga",
+    "namaLatin": "Helianthus annuus",
+    "frekuensiSiram": "3x seminggu",
+    "kebutuhanCahaya": "penuh"
+  },
+
+  {
+    "id": "4",
+    "judul":"Anggrek Bulan",
+    "kategori": "Bunga",
+    "namaLatin": "Phalaenopsis amabilis",
+    "frekuensiSiram": "2x seminggu",
+    "kebutuhanCahaya": "sedang"
+  },
+
+  {
+    "id": "5",
+    "judul": "Adenium",
+    "kategori": "Bunga",
+    "namaLatin": "Adenium oblongum",
+    "frekuensiSiram": "2x seminggu",
+    "kebutuhanCahaya": "penuh"
+  },
+
+  {
+    "id": "6",
+    "judul": "Kaktus Mini",
+    "kategori": "Sukulen",
+    "namaLatin": "Mammillaria elongata",
+    "frekuensiSiram": "1x 2 minggu",
+    "kebutuhanCahaya": "penuh"
+  },
+
+  {
+    "id": "7",
+    "judul": "Janda Bolong",
+    "kategori": "Daun",
+    "namaLatin": "Monstera adansonii",
+    "frekuensiSiram": "1x seminggu",
+    "kebutuhanCahaya": "sedang"
+  },
+
+  {
+    "id": "8",
+    "judul": "Sirih Gading",
+    "kategori": "Gantung",
+    "namaLatin": "Epipremnum aureum",
+    "frekuensiSiram": "2x seminggu",
+    "kebutuhanCahaya": "teduh"
+  },
+
+  {
+    "id": "9",
+    "judul": "Melati",
+    "kategori": "Bunga",
+    "namaLatin": "Jasminum sambac",
+    "frekuensiSiram": "2x seminggu",
+    "kebutuhanCahaya": "penuh"
+  },
+
+  {
+    "id": "10",
+    "judul": "Mawar",
+    "kategori": "Bunga",
+    "namaLatin": "Rosa chinensis",
+    "frekuensiSiram": "3x seminggu",
+    "kebutuhanCahaya": "penuh"
   }
+
 ]
