@@ -9,7 +9,8 @@ export default function Beranda() {
 
   return (
     <section>
-      <h1>Koleksi Tanaman Hias</h1>
+      <h1>PLANTOPIA</h1>
+      <p>Your Personal Plant Collection 🌿</p>
       <p>Tema: {mahasiswa.tema}</p>
       {loading ? (
         <p>Memuat ringkasan...</p>
