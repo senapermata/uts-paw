@@ -96,13 +96,13 @@ Deployment: https://senapermata.github.io/uts-paw/
 
 ## Menjalankan secara lokal
 
-cd app
-npm install
-npm run dev
-npm run lint
-npm run build
-npm test
-npm run cek
+- cd app
+- npm install
+- npm run dev
+- npm run lint
+- npm run build
+- npm test
+- npm run cek
 
 ## Konsep React yang dipakai
 - `useState` dan `useEffect` untuk state dan pengambilan data
