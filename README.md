@@ -74,8 +74,18 @@ Deployment: https://senapermata.github.io/uts-paw/
 ![Tangkapan layar beranda](docs/beranda.png)
 
 ## Fitur
+- Beranda dengan ringkasan jumlah tanaman dan kategori
+- Daftar koleksi 10 tanaman hias dalam bentuk kartu
+- Pencarian tanaman berdasarkan judul
+- Filter berdasarkan kategori (Daun, Bunga, Sukulen, Gantung)
+- Halaman detail tanaman: kategori,  nama Latin, frekuensi siram, dan kebutuhan cahaya
+- Pesan " tidak di temukan "  untuk id yang tidak ada
+- Tambah tanaman baru lewat form validasi judul
+- Hapus tanaman dengan konfirmasi
+- Statistik jumlah tanaman per kategori dalam bentuk tabel
+- Halaman Tentang dan halaman 404
+- Data tersimpan di localstorage
 
-- ...
 
 ## Menjalankan secara lokal
 
