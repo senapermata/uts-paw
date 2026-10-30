@@ -92,8 +92,21 @@ Deployment: https://senapermata.github.io/uts-paw/
 cd app
 npm install
 npm run dev
+npm run lint
+npm run build
+npm test
+npm run cek
 
 ## Konsep React yang dipakai
+- `useState` dan `useEffect` untuk state dan pengambilan data
+- Context API (`createContext`, `KoleksiProvider`, `useContext`) untuk membagikan data koleksi
+- Custom hook `useKoleksi` dan `useLocalStorage`
+- React Router: `Routes`, `Route`, `Outlet`, `NavLink`, `Link`, `useParams`, `useNavigate`
+- `fetch` dengan `async/await`, serta state `loading` dan `error`
+- Form terkontrol dengan validasi dan pesan error (`role="alert"`)
+- Props dan komposisi komponen (`KartuItem`, `KotakPencarian`, `Muat`, `Galat`, `Layout`)
+- Rendering list dengan `map`, `filter`, dan `reduce`
+- Testing dengan Vitest dan Testing Library
 
 - ...
 ```
