@@ -22,9 +22,9 @@ export default function Layout() {
           ))}
         </nav>
       </header>
-      <main className="isi">
-        <Outlet />
-      </main>
+     <main id="konten-utama" className="isi">
+      <Outlet />
+     </main>
       <footer className="kaki">Ujian Tengah Semester Pengembangan Aplikasi Web</footer>
     </div>
   )
