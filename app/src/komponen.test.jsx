@@ -20,18 +20,19 @@ describe('komponen dan halaman', () => {
 
   it('KartuItem menampilkan judul sebagai tautan ke halaman detail', () => {
     const item = {
-      id: '1',
-      judul: 'Monstera',
-      kategori: 'Daun',
-      frekuensiSiram: '1x seminggu',
-      kebutuhanCahaya: 'sedang',
-    }
+  id: '1',
+  judul: 'Aglaonema',
+  kategori: 'Daun',
+  namaLatin: 'Aglaonema commutatum',
+  frekuensiSiram: '2x seminggu',
+  kebutuhanCahaya: 'sedang',
+}
     render(
       <MemoryRouter>
         <KartuItem item={item} />
       </MemoryRouter>,
     )
-    const tautan = screen.getByRole('link', { name: 'Monstera' })
+    const tautan = screen.getByRole('link', { name: 'Aglaonema' })
     expect(tautan.getAttribute('href')).toBe('/koleksi/1')
   })
 
