@@ -58,9 +58,11 @@ Panduan lengkap beserta solusi kendala umum ada di halaman [Panduan](https://uts
 
 Penilaian akhir selalu memakai `grader/` dan `shared/` versi repo induk, jadi mengubahnya di fork tidak berpengaruh.
 
+<!--
 ## README milikmu
 
-Ganti seluruh isi berkas ini dengan dokumentasi aplikasimu (butir rubrik A4). Kerangka berikut boleh dipakai:
+Ganti seluruh isi berkas ini dengan dokumentasi aplikasimu.
+-->
 
 
 # Nama Aplikasi
@@ -72,6 +74,11 @@ Tema: Koleksi Tanaman Hias
 Deployment: https://senapermata.github.io/uts-paw/
 
 ![Tangkapan layar beranda](docs/beranda.png)
+![Halaman Koleksi](docs/koleksi.png)
+![Halaman Tambah](docs/tambah.png)
+![Halaman Statistik](docs/statistik.png)
+![Halaman Tentang](docs/tentang.png)
+![Halaman 404](docs/404.png)
 
 ## Fitur
 - Beranda dengan ringkasan jumlah tanaman dan kategori
