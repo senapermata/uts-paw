@@ -65,13 +65,15 @@ Ganti seluruh isi berkas ini dengan dokumentasi aplikasimu.
 -->
 
 
-# Nama Aplikasi
+# PLANTOPIA
 
+```bash
 Nama: Sena Permatasari
 NIM: 124140018
 Kelas: RA
 Tema: Koleksi Tanaman Hias
 Deployment: https://senapermata.github.io/uts-paw/
+```
 
 ![Tangkapan layar beranda](docs/beranda.png)
 ![Halaman Koleksi](docs/koleksi.png)
@@ -95,14 +97,15 @@ Deployment: https://senapermata.github.io/uts-paw/
 
 
 ## Menjalankan secara lokal
-
-- cd app
-- npm install
-- npm run dev
-- npm run lint
-- npm run build
-- npm test
-- npm run cek
+```bash
+cd app
+npm install
+npm run dev
+npm run lint
+npm run build
+npm test
+npm run cek
+```
 
 ## Konsep React yang dipakai
 - `useState` dan `useEffect` untuk state dan pengambilan data
